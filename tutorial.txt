@@ -1,0 +1,14 @@
+// HolaMundo.java
+public class HolaMundo {
+    public static void main(String[] args) {
+        // Imprime el mensaje Hola Mundo en la consola
+        System.out.println("¡Hola Mundo!");
+    }
+}
+
+
+
+
+
+
+
