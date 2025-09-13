@@ -1,11 +1,12 @@
 // HolaMundo.java
 public class HolaMundo {
     public static void main(String[] args) {
-        // Imprime el mensaje Hola Mundo en la consola
-        System.out.println("¡Hola Mundo!");
+        // Imprime el mensaje Hola Mundo 5 veces
+        for (int i = 0; i < 5; i++) {
+            System.out.println("¡Hola Mundo!");
+        }
     }
 }
-
 
 
 
