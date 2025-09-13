@@ -1,10 +1,13 @@
 // HolaMundo.java
 public class HolaMundo {
     public static void main(String[] args) {
+<<<<<<< HEAD
         // Imprime el mensaje Hola Mundo 5 veces en pantalla
         for (int i = 0; i < 5; i++) {
             System.out.println("¡Hola Mundo!");
         }
+=======
+>>>>>>> parent of 0f1226f (Azul agrego ciclo for)
         // Imprime el mensaje Hola Mundo en la consola
         System.out.println("¡Hola Mundo!");
     }
