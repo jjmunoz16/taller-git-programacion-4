@@ -5,8 +5,11 @@ public class HolaMundo {
         for (int i = 0; i < 5; i++) {
             System.out.println("¡Hola Mundo!");
         }
+        // Imprime el mensaje Hola Mundo en la consola
+        System.out.println("¡Hola Mundo!");
     }
 }
+
 
 
 
