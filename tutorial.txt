@@ -1,17 +1,18 @@
 // HolaMundo.java
 public class HolaMundo {
     public static void main(String[] args) {
-<<<<<<< HEAD
+
         // Imprime el mensaje Hola Mundo 5 veces en pantalla
         for (int i = 0; i < 5; i++) {
             System.out.println("¡Hola Mundo!");
         }
-=======
->>>>>>> parent of 0f1226f (Azul agrego ciclo for)
+
+
         // Imprime el mensaje Hola Mundo en la consola
         System.out.println("¡Hola Mundo!");
     }
 }
+
 
 //Este cambio fue hecho en la rama azul
 //Cambio 1 hecho por azul en rama-azul
@@ -19,5 +20,8 @@ public class HolaMundo {
 //Cambio 3 hecho por azul en rama-azul
 //Cambio 4 hecho por azul en rama-azul
 //Cambio 5 hecho por azul en rama-azul
+
+// Primer cambio en la rama rojo
+
 
 // Cambio final
